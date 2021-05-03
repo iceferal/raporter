@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.base.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.controls.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.fxml.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.graphics.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.media.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.swing.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx.web.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\javafx-sdk-16\\lib\\javafx-swt.jar",
+        "c:\\Users\\alien\\Desktop\\Project\\Java\\Libs\\jsoup\\jsoup-1.13.1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
